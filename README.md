@@ -93,6 +93,9 @@ gcc play.c -o play
 The ASCII animation will start displaying in the terminal.
 
 
+---
+
+---
 
 ---
 
